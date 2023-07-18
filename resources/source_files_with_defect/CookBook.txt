@@ -1,0 +1,2 @@
+2	'Rajská omáčka'	230	5	'hotovky'
+3	'Sekaná s bramborem'	170	5	'hotovky'

@@ -1,0 +1,6 @@
+2	Rajská omáčka	230	5	'hotovky'
+3	Sekaná s bramborem	170	5	'hotovky'
+4	Hamburger	280	25	'minutky'
+5	Smažený sýr s hranolkami a tatarkou	190	20	'vegetariánské'
+6	Zákusek	65	5	'dezert'
+7	'Bavorské vdolečky'	120	15	'vegetariánské'
